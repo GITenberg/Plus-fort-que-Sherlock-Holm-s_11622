@@ -1,0 +1,38 @@
+_repo: Plus-fort-que-Sherlock-Holm-s_11622
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Gail, François de
+    alias: Gail, Francois de
+    gutenberg_agent_id: '4609'
+    url: http://www.gutenberg.org/2009/agents/4609
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11622'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: Plus fort que Sherlock Holmès -- Cannibalisme en voyage -- L'homme
+  au message pour le directeur général -- Les geais bleus -- Comment j'ai tué un ours
+  -- Un chien à l'église -- Une victime de l'hospitalité -- Les droits de la femme.
+title: Plus fort que Sherlock Holmès
+url: http://www.gutenberg.org/ebooks/11622
