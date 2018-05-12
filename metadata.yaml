@@ -1,11 +1,14 @@
 _repo: Plus-fort-que-Sherlock-Holm-s_11622
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Gail, François de
     alias: Gail, Francois de
     gutenberg_agent_id: '4609'
     url: http://www.gutenberg.org/2009/agents/4609
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/53
     wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11622#Plus-fort-que-Sherlock-Holm-s
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
